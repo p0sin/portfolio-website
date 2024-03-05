@@ -1,0 +1,9 @@
+/* CODE TO SHOW HAMBURGER MENU IF SCREEN SIZE REDUCES */
+@media screen and (max-width: 1200px) {
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+}
